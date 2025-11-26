@@ -1,0 +1,20 @@
+Homework: Automating Text Processing and Word Cloud Generation in Python
+
+In this lesson, we learned how to:
+Read text from online files using urllib.request.
+Work with strings: slicing, splitting, indexing.
+Loop through words and letters using for
+Install and use the WordCloud library.
+Download an image from Google Drive and use it as a mask.
+Add stopwords to clean a word cloud.
+These skills help us automatically read, clean, and transform text into visual data.
+
+Apply what you learned to automate text processing and generate word clouds.
+Task 1 – Read Text and Work With It
+Write Python code that reads a file from a URL, or you can simply write your own sentences. You may decide how to read the text and what operations to perform on it (for example: splitting, selecting certain words, printing parts of the text, etc.). Show the code you used and briefly explain what it does. (Do everything in your .ipynb file)
+
+Task 2 – Create a Basic Word Cloud
+Create a word cloud using a text file. You may choose any style, settings, or additional steps (for example: stopwords, colors, text selection, etc.). The most important part is interpreting the word cloud: explain what it shows about the text. Show your code and describe your observations.
+Submission Instructions
+Submit the URL of the .ipynb file from your GitHub repository. Make sure all your work in the Codespace is fully synced with the repository.
+
